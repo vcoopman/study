@@ -1,5 +1,7 @@
 **/*.out
 opt/cross/
 opt/cross/*
-opt/cross-build/
-opt/cross-build/*
+binutils-2.34/
+build-binutils/
+build-gcc/
+gcc/
