@@ -1,0 +1,5 @@
+**/*.out
+opt/cross/
+opt/cross/*
+opt/cross-build/
+opt/cross-build/*
