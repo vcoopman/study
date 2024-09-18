@@ -19,7 +19,7 @@ const int VGA_ROWS = 25;
 // We start displaying text in the top-left of the screen (column = 0, row = 0)
 int term_col = 0;
 int term_row = 0;
-uint8_t term_color = 0x0F; // Black background, White foreground
+uint8_t term_color = 0x8F; // VICENT-OS!!!
 
 // This function initiates the terminal by clearing it
 void term_init()
